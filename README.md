@@ -1,6 +1,8 @@
 # game-snake
 jogos da Cobrinha em html css js .
 
+todos os codigos digitados linha por linha
+
 No começo o jogo parecia funcionar 
 depois de uma certa altura ele simplesmente não funcionou 
 resolvi acompanhar a aula e ver se tinha mais coisas a fazer 
